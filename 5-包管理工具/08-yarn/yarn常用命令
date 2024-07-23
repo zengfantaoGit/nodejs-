@@ -1,0 +1,12 @@
+初始化	yarn init / yarn init -y
+安装包	yarn add uniq 生产依赖
+yarn add less --dev 开发依赖
+yarn global add nodemon 全局安装
+删除包	yarn remove uniq 删除项目依赖包
+yarn global remove nodemon 全局删除包
+安装项目依赖	yarn
+运行命令别名	yarn <别名> # 不需要添加 run
+
+这里有个小问题就是 全局安装的包不可用，yarn 全局安装包的位置可以通过 yarn global bin来查看
+
+yarn的锁版本的包为yarn.lock

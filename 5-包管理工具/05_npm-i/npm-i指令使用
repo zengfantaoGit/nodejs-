@@ -1,0 +1,11 @@
+npm i为项目常用的指令。
+由于包上传时对应的node_modules模块包不会一同上传。
+此时的npm i可以根据下载的package.json与package-lock.json文件自动下载依赖包node_modules
+
+修改依赖的版本号：
+项目中可能会遇到版本不匹配的情况，有时就需要安装指定版本的包，可以使用下面的命令的
+npm i/install 包名@版本号
+
+删除依赖
+npm r/remove/uninstall 包名。
+此时package.json与package-lock.json文件内的对应配置项会被移除

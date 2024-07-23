@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--完整写法，包含协议，域名与端口号（https默认端口号 443）-->
+<a href="https://www.baidu.com">百度</a>
+<!--不常用写法(不方便后期维护)，后续访问时会自动拼接当前页面的协议名形成完整的url路径-->
+<!--会访问http://www.jd.com网址，然后又会重定向到https://www.jd.com-->
+<a href="//jd.com">京东</a>
+<!--常用写法，后续访问时会拼接当前页面的域名与协议形成完整url路径-->
+<!--会访问http://localhost:63346/search网址。与./search的相对路径不同-->
+<a href="/search">搜索</a>
+</body>
+</html>

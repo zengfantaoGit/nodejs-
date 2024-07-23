@@ -1,0 +1,3 @@
+npm search 包名
+搜索所有符合条件的包（不常用）
+网站搜索 网址是 https://www.npmjs.com/

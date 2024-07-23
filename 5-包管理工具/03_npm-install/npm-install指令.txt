@@ -1,0 +1,20 @@
+npm install / i 包名（局部安装）
+下载获取指定包名的包
+
+# 格式
+npm install <包名>
+npm i <包名>
+
+# 示例
+
+npm install uniq
+npm i uniq
+
+下载之后在当前文件夹下会生成package-lock.json文件与node_modules文件夹
+node_modules 文件夹 存放下载的包
+package-lock.json 包的锁文件，用来锁定包的版本
+
+安装示例的uniq包后，此时uniq包就是当前包所引入的依赖包
+备注：使用npm install指令时，必须确保当前文件存在package.json文件
+否则它将会向上级查找存在package.json的目录并且将文件安装到该目录下
+

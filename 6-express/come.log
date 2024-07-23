@@ -1,0 +1,6 @@
+host=localhost  path=/home/1002.html
+host=localhost  path=/favicon.ico
+host=localhost  path=/home1
+host=localhost  path=/favicon.ico
+host=localhost  path=/home1/hs
+host=localhost  path=/favicon.ico

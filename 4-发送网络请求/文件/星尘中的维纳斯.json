@@ -1,0 +1,95 @@
+{
+  "name": "星屑ビーナス",
+  "id": 476081899,
+  "pst": 0,
+  "t": 0,
+  "ar": [
+    {
+      "id": 16152,
+      "name": "Aimer",
+      "tns": [],
+      "alias": []
+    }
+  ],
+  "alia": [],
+  "pop": 100,
+  "st": 0,
+  "rt": null,
+  "fee": 1,
+  "v": 54,
+  "crbt": null,
+  "cf": "",
+  "al": {
+    "id": 35445180,
+    "name": "BEST SELECTION \"blanc\"",
+    "picUrl": "https://p2.music.126.net/Gj4i7j4l36nRc0tVKfI8EQ==/109951167953850444.jpg",
+    "tns": [],
+    "pic_str": "109951167953850444",
+    "pic": 109951167953850450
+  },
+  "dt": 252221,
+  "h": {
+    "br": 320000,
+    "fid": 0,
+    "size": 10091565,
+    "vd": -32737,
+    "sr": 48000
+  },
+  "m": {
+    "br": 192000,
+    "fid": 0,
+    "size": 6054957,
+    "vd": -30177,
+    "sr": 48000
+  },
+  "l": {
+    "br": 128000,
+    "fid": 0,
+    "size": 4036653,
+    "vd": -28553,
+    "sr": 48000
+  },
+  "sq": {
+    "br": 1004051,
+    "fid": 0,
+    "size": 31655388,
+    "vd": -32727,
+    "sr": 48000
+  },
+  "hr": {
+    "br": 3115775,
+    "fid": 0,
+    "size": 98233062,
+    "vd": -32739,
+    "sr": 96000
+  },
+  "a": null,
+  "cd": "1",
+  "no": 6,
+  "rtUrl": null,
+  "ftype": 0,
+  "rtUrls": [],
+  "djId": 0,
+  "copyright": 1,
+  "s_id": 0,
+  "mark": 17717010432,
+  "originCoverType": 1,
+  "originSongSimpleData": null,
+  "tagPicList": null,
+  "resourceState": true,
+  "version": 54,
+  "songJumpInfo": null,
+  "entertainmentTags": null,
+  "awardTags": null,
+  "single": 0,
+  "noCopyrightRcmd": null,
+  "mv": 5324336,
+  "rtype": 0,
+  "rurl": null,
+  "mst": 9,
+  "cp": 2706476,
+  "publishTime": 1493740800000,
+  "tns": [
+    "星尘中的维纳斯"
+  ]
+}

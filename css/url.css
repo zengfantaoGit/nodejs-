@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh; /* 视口高度的100% */
+    width: 100vw; /* 视口宽度的100% */
+    overflow-x: hidden; /* 防止水平滚动条出现 */
+    background: linear-gradient(to right bottom, rgb(157, 203, 97), rgb(22, 142, 220));
+}

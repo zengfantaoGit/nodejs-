@@ -1,0 +1,15 @@
+package.json文件的scripts配置项可以简易配置指令
+例如：
+"scripts": {
+	"server": "node server.js",
+	"start": "node index.js",
+},
+
+配置完成后可以使用：
+npm run server与npm run start指令
+此时会查看自己文件夹下的package.json文件的scripts配置项，若不存在server配置
+则会向上层文件查找server配置。
+
+这两个指令将会执行对应配置的原生指令
+但如果配置的key为'start'则可以直接使用npm start
+对于陌生的项目，我们可以通过查看 scripts 属性来参考项目的一些操作

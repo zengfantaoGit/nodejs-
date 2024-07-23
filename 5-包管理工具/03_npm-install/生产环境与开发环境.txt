@@ -1,0 +1,12 @@
+开发环境 是程序员 专门用来写代码 的环境，一般是指程序员的电脑，开发环境的项目一般 只能程序员自己访问
+
+生产环境 是项目 代码正式运行 的环境，一般是指正式的服务器电脑，生产环境的项目一般 每个客户都可以访问
+
+生产依赖	npm i -S uniq
+npm i --save uniq	-S 等效于 --save，-S 是默认选项
+包信息保存在 package.json 中 dependencies 属性
+
+
+开发依赖	npm i -D less
+npm i --save-dev less	-D 等效于 --save-dev
+包信息保存在 package.json 中 devDependencies 属性

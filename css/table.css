@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table {
+    width: max-content;
+    margin: 100px auto;
+    border-collapse: collapse;
+}
+td {
+    height: 100px;
+    width: 150px;
+    border: 1px solid red;
+}
+table  tr:nth-of-type(2n){
+    background-color: #ccc;
+}
+
+.active {
+    background-color: lightgreen;
+}

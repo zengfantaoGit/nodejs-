@@ -1,0 +1,92 @@
+{
+  "name": "Ref:rain",
+  "id": 536623501,
+  "pst": 0,
+  "t": 0,
+  "ar": [
+    {
+      "id": 16152,
+      "name": "Aimer",
+      "tns": [],
+      "alias": []
+    }
+  ],
+  "alia": [
+    "TV动画《恋如雨止》片尾曲",
+    " TVアニメ「恋は雨上がりのように」EDテーマ"
+  ],
+  "pop": 100,
+  "st": 0,
+  "rt": null,
+  "fee": 1,
+  "v": 101,
+  "crbt": null,
+  "cf": "",
+  "al": {
+    "id": 37256090,
+    "name": "Ref:rain / 眩いばかり",
+    "picUrl": "https://p1.music.126.net/wAxnnUZnkN7Soqf7nhjThQ==/109951166663296887.jpg",
+    "tns": [],
+    "pic_str": "109951166663296887",
+    "pic": 109951166663296880
+  },
+  "dt": 290202,
+  "h": {
+    "br": 320000,
+    "fid": 0,
+    "size": 11610950,
+    "vd": -73278,
+    "sr": 44100
+  },
+  "m": {
+    "br": 192000,
+    "fid": 0,
+    "size": 6966587,
+    "vd": -70766,
+    "sr": 44100
+  },
+  "l": {
+    "br": 128000,
+    "fid": 0,
+    "size": 4644406,
+    "vd": -69254,
+    "sr": 44100
+  },
+  "sq": {
+    "br": 1695925,
+    "fid": 0,
+    "size": 61520348,
+    "vd": -73264,
+    "sr": 44100
+  },
+  "hr": null,
+  "a": null,
+  "cd": "1",
+  "no": 1,
+  "rtUrl": null,
+  "ftype": 0,
+  "rtUrls": [],
+  "djId": 0,
+  "copyright": 1,
+  "s_id": 0,
+  "mark": 17180139520,
+  "originCoverType": 1,
+  "originSongSimpleData": null,
+  "tagPicList": null,
+  "resourceState": true,
+  "version": 101,
+  "songJumpInfo": null,
+  "entertainmentTags": null,
+  "awardTags": null,
+  "single": 0,
+  "noCopyrightRcmd": null,
+  "mv": 5838157,
+  "rtype": 0,
+  "rurl": null,
+  "mst": 9,
+  "cp": 2706476,
+  "publishTime": 1519142400000,
+  "tns": [
+    "恋如雨止"
+  ]
+}

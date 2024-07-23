@@ -1,0 +1,10 @@
+nrm是一种控制安装包路径的指令
+使用 nrm 配置 npm 的镜像地址 npm registry manager
+
+首先先全局安装nrm -- npm i -g nrm。
+
+nrm ls 可以查询所有可跟换的镜像地址。
+（当要上传包时还是需要跟换成 npm 的镜像地址）
+
+npm config list 可以查看自己配置的npm
+虽然 cnpm 可以提高速度，但是 npm 也可以通过淘宝镜像进行加速，所以 npm 的使用率还是高于 cnpm
